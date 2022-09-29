@@ -1,4 +1,4 @@
-package com.example.Mysqljdpc1;
+package com.code.Mysqljdpc1;
 import java.io.Serializable;
 
 import javax.persistence.*;
