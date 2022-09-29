@@ -1,4 +1,4 @@
-package com.example.Mysqljdpc1;
+package com.code.Mysqljdpc1;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
